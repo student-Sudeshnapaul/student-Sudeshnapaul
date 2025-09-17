@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 Currently pursuing B.Tech in Computer Science  
 - 💡 Passionate about Web Development, Full-Stack projects & Problem Solving  
-- 🌱 Learning ** Node.js, and Backend**  
+- 🌱 Learning Node.js, and Backend
 - 🤝 Open to collaborating on **open-source projects**  
 
 ---
