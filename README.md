@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Hi+there+👋;I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+there+👋;I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 # 👩‍💻 Sudeshna Paul  
