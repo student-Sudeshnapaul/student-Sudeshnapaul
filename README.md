@@ -4,8 +4,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-<img src="https://media.giphy.com/media/abc123GirlCoder/giphy.gif" width="400">
+<img src="https://media1.tenor.com/m/l9gyz9B5elQAAAAd/working-caminhos-do-cora%C3%A7%C3%A3o.gif" width="400">
 
+---
 
 # 👩‍💻 Sudeshna Paul  
 
