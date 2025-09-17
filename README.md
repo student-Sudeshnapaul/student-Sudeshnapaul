@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Hi+there+👋;I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+
 
 # 👩‍💻 Sudeshna Paul  
 
