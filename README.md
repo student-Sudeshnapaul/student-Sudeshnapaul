@@ -1,5 +1,5 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+there+👋;I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
@@ -38,3 +38,8 @@
 - 📧 Email: **sudeshnabbs@gmail.com**  
 - 💼 LinkedIn: [Sudeshna Paul](https://www.linkedin.com/in/sudeshnapaul247/)  
 
+
+---
+
+## 🚀 Fun Zone
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
