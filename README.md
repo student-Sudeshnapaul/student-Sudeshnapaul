@@ -4,6 +4,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
+<img src="https://media.giphy.com/media/abc123GirlCoder/giphy.gif" width="400">
+
+
 # 👩‍💻 Sudeshna Paul  
 
 🌟 B.Tech Student | Aspiring Full-Stack Developer  
@@ -39,7 +42,6 @@
 - 💼 LinkedIn: [Sudeshna Paul](https://www.linkedin.com/in/sudeshnapaul247/)  
 
 
----
 
-## 🚀 Fun Zone
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+
