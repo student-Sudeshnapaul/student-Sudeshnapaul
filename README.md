@@ -4,7 +4,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-<img src="https://media1.tenor.com/m/l9gyz9B5elQAAAAd/working-caminhos-do-cora%C3%A7%C3%A3o.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWVibXd3dmhrcmx2bjZ1MnY4aDFidjI3ZHZ4cWk3NnByc2U1MndxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jwxy5MXUWDKlUtQatg/giphy.gif" width="400">
 
 ---
 
