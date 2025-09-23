@@ -37,7 +37,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/student-Sudeshnapaul/Project-Technical-Chatbot">
-        <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="150px" alt="Technical Chatbot"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNyMTc1Njk2NWZtZHhnZDRrdzl0Znk1dnBkMXFiZXRwcWNqdnB2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif" width="150px" alt="Technical Chatbot"/>
         <br>Technical Chatbot
       </a>
     </td>
