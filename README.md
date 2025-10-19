@@ -17,19 +17,30 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing B.Tech in Computer Science  
+- 🎓 Currently pursuing B.Tech in Computer Science(AIML)  
 - 💡 Passionate about Web Development, Full-Stack projects & Problem Solving  
-- 🌱 Learning Node.js, and Backend
+- 🌱 Learning Backend
 - 🤝 Open to collaborating on **open-source projects**  
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, C, Java, JavaScript  
-- **Web Technologies:** HTML, CSS, Bootstrap,JavaScript  
-- **Frameworks & Libraries:** Node.js, Express.js, Tkinter  
-- **Databases:** MySQL, Oracle  
-- **Tools:** Git, GitHub, VS Code, Wampserver
+
+### Programming Languages
+- Python, C, Java, JavaScript
+
+### Web Technologies
+- HTML, CSS, JavaScript
+
+### Frameworks & Libraries
+- Tkinter, pandas, matplotlib, Streamlit, PyMuPDF
+
+### Databases
+- SQL, Oracle
+
+### Tools & Platforms
+- Git, GitHub, VS Code, WampServer, IDLE, Sublime Text
+
 
 ---
 
