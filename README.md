@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=I'm+Sudeshna+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
-
-
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
@@ -18,19 +15,17 @@
 
 ## 🚀 About Me
 - 🎓 Currently pursuing B.Tech in Computer Science(AIML)  
-- 💡 Passionate about Web Development, Full-Stack projects & Problem Solving  
-- 🌱 Learning Backend
-- 🤝 Open to collaborating on **open-source projects**  
+- 💡 Passionate about Web Development, Full-Stack projects & Problem Solving   
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-- Python, C, Java, JavaScript
+- Python, C, Java
 
 ### Web Technologies
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, PHP
 
 ### Frameworks & Libraries
 - Tkinter, pandas, matplotlib, Streamlit, PyMuPDF
