@@ -1,67 +1,73 @@
 # Hi there 👋  
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36px" align="left" />
 
-> **“Small steps every day lead to big results.”**
+> “Small steps every day lead to big results.”  
 
-<img src="https://media.giphy.com/media/jwxy5MXUWDKlUtQatg/giphy.gif" width="400"/>
-
----
-
-## 👩‍💻 Sudeshna Paul  
-🎓 **B.Tech Student (CSE – AIML)**  
-🌟 **Aspiring Full-Stack Developer | Problem Solver**
+<div align="center">
+  <img src="https://media.giphy.com/media/jwxy5MXUWDKlUtQatg/giphy.gif" width="420"/>
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)**
-- 💡 Passionate about **Web Development, Full-Stack Projects & Problem Solving**
-- 🔍 Interested in **Machine Learning & Real-World Applications**
-- 🚀 Constantly improving through **projects, coding practice & GitHub**
+## 👩‍💻 Hi, I'm Sudeshna Paul
+B.Tech Student (CSE – AI & ML) • Aspiring Full‑Stack Developer • Problem Solver
+
+I build practical projects that bridge web development and machine learning. I love learning new tools, solving algorithmic problems, and shipping polished applications.
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Skills Overview (with Technologies)
-
-| Category | Technologies |
-|--------|-------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white) |
-| **Web Development** | ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white) |
-| **Frontend Tools** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-black?logo=javascript&logoColor=white) |
-| **Machine Learning** | ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?logo=python&logoColor=white) |
-| **Frameworks & Libraries** | Tkinter, Streamlit, PyMuPDF |
-| **Databases** | ![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) VS Code, WampServer, IDLE, Sublime Text |
+## 🚀 Quick Snapshot
+- 🎓 B.Tech in Computer Science (AI & ML)  
+- 🔭 Currently exploring Full‑Stack Web Development & ML applications  
+- 🌱 Learning: advanced JavaScript frameworks, deployment, and model integration  
+- 🧠 Interests: Web dev, AI/ML, UX, and competitive programming
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-🔹 **[Technical Chatbot](https://github.com/student-Sudeshnapaul/Project-Technical-Chatbot)**  
-> Interactive chatbot built using **Google Gemini API**
+- Programming: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+- Web: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+- Frontend: Bootstrap, jQuery, AJAX  
+- ML & Data: Pandas, Matplotlib, Scikit‑learn (projects using PyMuPDF, Streamlit, Tkinter)  
+- DB & Tools: MySQL/Oracle, Git, GitHub, VS Code
 
-🔹 **[Weather Update App](https://github.com/student-Sudeshnapaul/Project--Weather-Update)**  
-> Real-time weather application using **Python Tkinter & API**
+---
 
-🔹 **[Notepad Clone](https://github.com/student-Sudeshnapaul/Project-Notepad-Clone)**  
-> Full-featured **Notepad application** using Python Tkinter
+## ✨ Featured Projects
+
+### Technical Chatbot
+- Interactive chatbot built using Google Gemini API  
+- Repo: https://github.com/student-Sudeshnapaul/Project-Technical-Chatbot
+
+### Weather Update App
+- Real‑time weather application using Python Tkinter and external APIs  
+- Repo: https://github.com/student-Sudeshnapaul/Project--Weather-Update
+
+### Notepad Clone
+- Full‑featured Notepad desktop app built with Python Tkinter  
+- Repo: https://github.com/student-Sudeshnapaul/Project-Notepad-Clone
+
+(Click any project to view source, screenshots, and usage instructions.)
 
 ---
 
 ## 🧠 Coding Practice
-- 🔥 **LeetCode:** [https://leetcode.com/u/SUDESHNA_PAUL/](https://leetcode.com/u/SUDESHNA_PAUL/)
-- 📊 Focus on **DSA, Problem Solving & Optimization**
+- LeetCode profile: https://leetcode.com/u/SUDESHNA_PAUL/  
+- Focus: Data Structures, Algorithms, Optimization
 
 ---
 
-## 🌐 Connect With Me
-
-- 📧 **Email:** sudeshnabbs@gmail.com  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sudeshnapaul247/](https://www.linkedin.com/in/sudeshnapaul247/)  
-- 🧑‍💻 **GitHub:** [https://github.com/student-Sudeshnapaul](https://github.com/student-Sudeshnapaul)
+## 📫 Connect with Me
+- ✉️ Email: sudeshnabbs@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sudeshnapaul247/  
+- GitHub: https://github.com/student-Sudeshnapaul
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*  
+## 🙌 Contributing & Support
+If you enjoy a project, please give it a star ⭐. Contributions and feedback are welcome — open an issue or submit a PR with improvements.
+
+---
+
+Thank you for visiting — let's build something great together! 🚀
